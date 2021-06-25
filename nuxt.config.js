@@ -51,7 +51,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: "https://purefit.life"
+    baseURL: "https://localhost:80"
   },
   auth: {
     strategies: {
